@@ -79,21 +79,23 @@ accuracy
 
 ### Dataset:
 
-![](o1.png)
+![o1](https://github.com/ATHMAJ03/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118753139/1c52f7b0-9edf-4d3e-af8c-ea891fa84c75)
 
 ### Dataset information:
 
-![](o2.png)
+![o2](https://github.com/ATHMAJ03/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118753139/e17e41a6-cef1-4568-9e24-6924d7121771)
 
-![](o3.png)
+![o3](https://github.com/ATHMAJ03/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118753139/3b1347c8-2168-4e05-ba72-68b833be85bf)
 
 ### Detected spam:
 
-![](o4.png)
+![o4](https://github.com/ATHMAJ03/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118753139/b1b57d3e-fd05-43e1-a270-42d31e6066e8)
+
 
 ### Accuracy score of the model:
 
-![](o5.png)
+![o5](https://github.com/ATHMAJ03/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118753139/aedc79a5-6359-48ef-a7a9-989c30c4438d)
+
 
 ## Result:
 
